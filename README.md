@@ -7,5 +7,6 @@ The strong contraction mapping, a self-mapping that the range is always a subset
 Find the global minimum point of Ackley function https://en.wikipedia.org/wiki/Ackley_function.
 
 
-![plot_Ackley](https://user-images.githubusercontent.com/18456485/61929809-abb4d200-af41-11e9-9cea-f4f08db0d5b2.png)
+![plot_Ackley](https://user-images.githubusercontent.com/18456485/61989544-c4cb8a80-aff6-11e9-882e-43d74fcbaa20.png)
+
 
